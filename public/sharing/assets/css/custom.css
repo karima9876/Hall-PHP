@@ -1,0 +1,4 @@
+select.form-control:not([size]):not([multiple]) {
+    height: calc(2.25rem + 2px);
+    margin-bottom: 85px;
+}

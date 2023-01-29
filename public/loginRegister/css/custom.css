@@ -1,0 +1,106 @@
+.col-md-offset-2 {
+    margin-left: 5px;
+}
+
+.col-md-8{margin-left: 85px;}
+.btn{margin-left: 123px;   width: 92px; height: 27px;}
+.btN{margin-left: 4px;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 4.25rem;
+    width: 90px;
+    height: 33px;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+
+}
+.form-group{margin-bottom: 2rem;}
+.panel-heading{height: 55px;}
+.panel-body{height: 500px;}
+input[type="email"]{width: 320px; height: 43px;border-radius: 15px;}
+input[type="password"]{width: 320px; height: 43px;border-radius: 15px;}
+input[type="text"]{width: 320px; height: 43px;border-radius: 15px;}
+input[type="submit"]{ width: 81px; height: 27px;border-radius:  6.25rem;}
+
+.contact100-form-title-1 {
+    font-family: Poppins-Bold;
+    font-size: 25px;
+    color: #fff;
+    line-height: 1.2;
+    text-align: center;
+
+    margin-left: 300px;
+    margin-bottom: 5px;
+}
+
+.containerChange {
+    width: 1030px;
+    padding-right: 15px;
+    padding-left: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+
+    background-color: #d8e1de;
+}
+
+.section_gap_change {
+    padding: 50px 0;
+    background-color: #d8e1de;
+    margin: auto;
+    /*    margin-left:-23px;
+    width: 1027px;   */
+
+
+}
+
+
+
+.col-12Change1 {
+    float:right;
+    margin-bottom: 26px;
+    /*
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 14px; */
+}
+.col-12Change2 {
+    float:left;
+    margin-bottom: 26px;
+    /*
+     -ms-flex: 0 0 100%;
+     flex: 0 0 100%;
+     max-width: 100%;
+     margin-left: 14px; */
+}
+
+
+.footer-area {
+    /*width: 1226px;
+      margin-left: -7px;
+     */
+    background-color: #000000;
+
+}
+
+.textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
